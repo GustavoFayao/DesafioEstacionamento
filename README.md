@@ -1,4 +1,4 @@
-# DesafioEstacionamentoClaro! Aqui está uma descrição detalhada do que você fez, formatada para ser incluída no seu repositório GitHub, com ícones e tudo:
+# DesafioEstacionamento
 
 ---
 
